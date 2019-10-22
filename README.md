@@ -1,5 +1,10 @@
 # E08a-Paddle-Ball
 This is the first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
+------------------------------------------------------
+
+Created ball, wall, and paddle assets with physics and collisons for all. Able to move paddle with mouse. Updates license and readme
+
+---------------------------------------------------
 
 Here are instructions for your first experience with the Godot engine:
 
